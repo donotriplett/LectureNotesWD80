@@ -12,6 +12,7 @@ What do we use them for?
 //This is a single line comment
 
 /*
+
 This
 is
 a
